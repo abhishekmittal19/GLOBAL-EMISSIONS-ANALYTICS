@@ -1,0 +1,25 @@
+{
+  "name": "terrascope-mern",
+  "version": "1.0.0",
+  "description": "TerraScope - Global Emissions Analytics (MERN Stack Dashboard)",
+  "scripts": {
+    "start": "node server/server.js",
+    "server": "node server/server.js",
+    "server:dev": "node --watch server/server.js",
+    "client": "npm run dev --prefix client",
+    "client:build": "npm run build --prefix client",
+    "client:preview": "npm run preview --prefix client"
+  },
+  "keywords": [
+    "mern",
+    "react",
+    "dashboard",
+    "emissions",
+    "analytics",
+    "terrascope",
+    "express",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC"
+}
