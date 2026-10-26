@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TerraScope — Global Emissions Analytics (MERN Stack)
 
 A clean, modern, responsive web dashboard built with the **MERN** stack (MongoDB, Express.js, React, Node.js) converting the TerraScope environmental analytics design into a fully interactive, production-ready application.
@@ -124,3 +125,6 @@ npm run client
 | `/api/compare` | `GET` | `countries`, `metric` | Multi-country comparison time series data. |
 | `/api/insights` | `GET` | `year` (e.g. `2022`) | Curated insights and data conclusions. |
 | `/api/health` | `GET` | - | Health status and MongoDB connection verification. |
+=======
+# GLOBAL-EMISSIONS-ANALYTICS
+>>>>>>> 5d4476a9e550585a3d3a1ee60ea66d9bf37e3b9a
